@@ -1,2 +1,2 @@
-# DiskJunkey
-A discord bot which adds Spotify tracks to a playlist
+# DiscJunkey
+A discord bot which adds Spotify track links to a playlist
