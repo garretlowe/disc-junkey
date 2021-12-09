@@ -31,7 +31,7 @@ else:
 bot = commands.Bot(command_prefix='+')
 
 # Global Variables
-PATTERN = re.compile(r"https:\/\/open.spotify.com\/(\w*)\/(\w+)[?=\w]*")
+PATTERN = re.compile(r"https:\/\/open\.spotify\.com\/(\w*)\/(\w+)[?=\w]*")
 
 # Helper Functions
 def add_to_playlist(uri):
